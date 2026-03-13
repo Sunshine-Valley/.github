@@ -1,12 +1,11 @@
-## Hi there 👋
+# Sunshine-Valley
 
-<!--
+## Repositories
 
-**Here are some ideas to get you started:**
+Alle oeffentlichen Projekte dieser Organisation sind Bestandteil des Sunshine Valley Oekosystems. Jedes Repository enthaelt eine eigene Dokumentation zu Zweck, Aufbau und Verwendung der jeweiligen Ressource.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## Hinweis
+
+Diese Organisation und ihre Repositories sind primaer fuer die interne Entwicklung des Sunshine Valley Servers vorgesehen. Fragen und Anmerkungen koennen direkt ueber GitHub Issues in den jeweiligen Projekten eingereicht werden.
